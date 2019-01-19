@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-
+//
 int main() {
 	int numero, decimal, decimal2;
 	int dividendo, resto, divisor = 2;
